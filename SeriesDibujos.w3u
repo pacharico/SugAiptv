@@ -1,1 +1,56 @@
-
+{
+"name": "Series de Dibujos",
+"author": "SugA",
+"url": "",
+"image": "https://vidcache.net:8161/static/76c86ff03d0d6a69451f119e781f9f420436ec3d/series de dibujos.jpeg",
+"telegram": "",
+"info": "",
+"groups":
+	[
+    	{
+        "name": "          Heidi",
+        "image": "https://vidcache.net:8161/static/5da8a5ee40e18df671438941edb9a99eff0d1d68/Heidi caratula.jpeg",
+        "url": "https://vidcache.net:8161/static/45f9a671ab94de6f4c09cf98b3ed2c4e1f513da8/Heidi.w3u",
+        "info":""
+		},
+		{
+        "name": "  La abeja Maya",
+        "image": "https://vidcache.net:8161/static/c78186f826103f441bb9946ed18abca5f7eb5505/Abeja Maya.jpeg",
+        "url": "https://vidcache.net:8161/static/dfbfaf8c37592d83a05064e6bcbf69c17db611a0/La abeja Maya.w3u",
+        "info":""
+        },
+		{
+        "name": "          Marco",
+        "image": "https://vidcache.net:8161/static/2bf07d4396379aa8e914213725b3dc9138f8f22d/Marco.jpeg",
+        "url": "https://vidcache.net:8161/static/067c315c743981c683cdc05b9b04b53d65ded302/Marco.w3u",
+        "info":""
+        },
+		{
+        "name": "Pichi Pichi Pitch",
+        "image": "https://vidcache.net:8161/static/5b79b35dba5de2bdf46c4933c6dac2377cdcc7df/Pichi.jpeg",
+        "url": "https://vidcache.net:8161/static/fd8e942d064476395bca7ecc1b53a666cbcb1f83/Pichi Pichi.w3u",
+        "info":""
+        },
+		{
+        "name": "Arcane, League of Legends",
+        "image": "https://vidcache.net:8161/static/e306bd3859de73944029c3aa11511f4835206712/Arcane.jpeg",
+        "url": "https://vidcache.net:8161/static/e6ba4413cf3dc936d27e96149cd1e710c8d0b9e3/Arcane.w3u",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Heidi mkv",
+        "image": "",
+        "url": "https://vidcache.net:8161/static/bfb3444ab600301a9904ac12a170402121d9567d/Heidi mkv.w3u",
+        "info":"",
+        "import": false
+        },
+{
+        "name": "WondLa",
+        "image": "https://vidcache.net:8161/static/c62a21c1a6c1d3048820b6e08d0fb44b5a8239b6/WondLa.jpg",
+        "url": "https://pastebin.com/raw/nKvtjew6",
+        "info":"",
+        "import": false
+        },
+	]
+}
