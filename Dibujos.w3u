@@ -1,1 +1,525 @@
-
+{
+"name": "Dibujos",
+"author": "SugA",
+"url": "",
+"image": "",
+"telegram": "",
+"info": "",
+"stations":
+	[ 
+		{
+        "name": "101 Dalmatas (1961)",
+        "image": "https://vidcache.net:8161/static/ae37cf06b4d49285b7d46543bf3334bfe485bd2b/101 Dalmatas(Dibujos).jpeg",
+        "url": "https://filemoon.sx/d/3dkcql2hybsu",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },  
+		{
+        "name": "Albin y las Ardillas 3 (2011)",
+        "image": "https://vidcache.net:8161/static/c74b31c67fdc1a3585fd2cdec401eeaf0645bf85/Albin 3.jpeg",
+        "url": "https://www.yourupload.com/watch/5744hp1o20tE",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Amor de gata (2020)",
+        "image": "https://vidcache.net:8161/static/d3b3f2837c2f43f9fba7af26aa6f6bc7093acb20/Amor de gata.jpeg",
+        "url": "https://listeamed.net/v/njJYOd3NlQYEe9o",
+        "info":"",
+		"userAgent":"",
+		"isHost": "true",
+        "import": false
+        },
+		{
+        "name": "Arrietty y El mundo de los diminutos (2010)",
+        "image": "https://vidcache.net:8161/static/241c750f9ee547df5c94d1a0ff1925397fa65a7f/Arrietty.jpeg",
+        "url": "https://www.yourupload.com/watch/cWTFsW6201Pv",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "A Silent Voice (2018)",
+        "image": "https://vidcache.net:8161/static/5d3347fbaa1f4126987beff3d89e5e65d79629f3/A Silent Voice.jpeg",
+        "url": "https://filemoon.sx/d/cdzwqlp5dwt7",
+        "info":"",
+		"userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Atrapa la bandera (2015)",
+        "image": "https://vidcache.net:8161/static/f970a3f10ebce6bc8d8844317e8607c23ceab512/Atrapa la bandera.jpeg",
+        "url": "https://filemoon.sx/d/kewouup9thaj",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Ballerina (2006)",
+        "image": "https://vidcache.net:8161/static/3b385151e730ff92f1fe1f88b7faa2d8de9d11ff/Ballerina.jpeg",
+        "url": "https://www.yourupload.com/watch/Lf5dJDf3o7fh",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Aventura en el espacio (2016)",
+        "image": "https://vidcache.net:8161/static/96fed11a4543821826fb43fe17daa56ddaa99051/Barbie aventura espacio.jpeg",
+        "url": "https://uqload.ws/u0hixf5ophnq.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Campamento de princesas (2015)",
+        "image": "https://vidcache.net:8161/static/156c707c3410bcf2e57d7f189f632bee9e04fdc1/Barbie campamento.jpeg",
+        "url": "https://uqload.ws/wu7p5x51xixi.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie en El Lago de los Cisnes (2003)",
+        "image": "https://vidcache.net:8161/static/a62192bd10838b023062eac6fc59ea65dbe8166c/Barbie El lago Cisnes.jpeg",
+        "url": "https://filemoon.sx/d/i9ks9dkmpsfe",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Barbie en La Princesa y la costurera (2004)",
+        "image": "https://vidcache.net:8161/static/e0621ebc95e06cbea1c7100606df0b8766f1098e/Barbie costurera.jpeg",
+        "url": "https://uqload.ws/qac7y8zrlfdn.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Escuela de Princesas (2011)",
+        "image": "https://vidcache.net:8161/static/34a65774b0bf19616b7ddfb387716e1c1a2ba00b/Barbie Escuela princesas.jpeg",
+        "url": "https://uqload.ws/19hcvcq2ppp8.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Equipo de espias (2016)",
+        "image": "https://vidcache.net:8161/static/d5f190f179866ac2fc927d7a106609c300205d4d/Barbie espias.jpeg",
+        "url": "https://uqload.ws/kssjl239dv0u.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Fairytopia (2005)",
+        "image": "https://vidcache.net:8161/static/30da1cf6c0756013e5926607650997bb1f7bb283/Barbie Fairytopia.jpeg",
+        "url": "https://vidmoly.to/w/xe8s0gzvohj2",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Fairytopia - Mermaidia (2006)",
+        "image": "https://vidcache.net:8161/static/9956f8f52ed910becd799a1ecc2152323704c52c/Barbie Mermaidia.jpeg",
+        "url": "https://vidmoly.to/w/2726qbzxfw27",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Fairytopia - La Magia del Arco Iris (2007)",
+        "image": "https://vidcache.net:8161/static/baf67d233dacf0b68eaed50dc22157c1773ec581/Barbie.La magia del Arco Iris.jpeg",
+        "url": "https://vidmoly.to/w/eafmjqt9gdbb",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie, La princesa y la estrella pop (2012)",
+        "image": "https://vidcache.net:8161/static/4ab7537c1995c72ad802ff4cc97459aa8a658eea/Barbie estrella pop.jpeg",
+        "url": "https://uqload.ws/t0bbz4285h2n.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Mariposa (2008)",
+        "image": "https://vidcache.net:8161/static/cbf56614a4efedab8e71f7179d3435ad3b6ddde0/Barbie Mariposa.jpeg",
+        "url": "https://filemoon.sx/d/8iozymwc137u",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"},
+		{
+        "name": "Barbie Mariposa y La Princesa de las Hadas (2013)",
+        "image": "https://vidcache.net:8161/static/fdb29fa7a564cee96f3e11f8c32274d28530917b/Barbie Mariposa Princesa Hadas.jpeg",
+        "url": "https://filemoon.sx/d/8iozymwc137u",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Barbie - Princesa de las perlas (2014)",
+        "image": "https://vidcache.net:8161/static/3d38a5cb3ffcb25a279c9e6a701a057afc860279/Barbie princesa perlas.jpeg",
+        "url": "https://opvid.org/ln6bfoe6fpkz.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Skipper y su gran aventura como canguro (2023)",
+        "image": "https://vidcache.net:8161/static/6fb7dce4bfc09cdbc903d971ed70331555a70d68/Barbie skipper.jpeg",
+        "url": "https://uqload.ws/lb4avll5hqcz.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Superheroina del videojuego (2017)",
+        "image": "https://vidcache.net:8161/static/a06dcb4cfd8bf79e24b696eb2f1585b1c48c623b/Barbie superheroina.jpeg",
+        "url": "https://uqload.ws/qh7ind4xj1an.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Super Princesa (2015)",
+        "image": "https://vidcache.net:8161/static/59cdf724a651863c9cffacce224a33031943e1f7/Barbie Super 2.jpeg",
+        "url": "https://opvid.org/lnlf3ose7toh.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Una aventura de Siirenas (20010)",
+        "image": "https://vidcache.net:8161/static/4baba7e960e8b054475a53609cfe0960750c7586/Barbie aventura sirenas.jpeg",
+        "url": "https://www.yourupload.com/watch/6c4J3aRxUJgf",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie Una aventura de Sirenas 2 (2012)",
+        "image": "https://vidcache.net:8161/static/5c956bae42386c2cb5c5bbff89af928bbd41be53/Barbie sirenas 2.jpeg",
+        "url": "https://vidmoly.me/w/t4rkmvyn9gfr",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie y hermanas en busca de los perritos (2016)",
+        "image": "https://vidcache.net:8161/static/d580bc3eb45b92b9905bfe1283acc8de64e8de29/Barbie perritos.jpeg",
+        "url": "https://uqload.ws/lz4emna5v724.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie y sus hermanas: Perritos en busca del tesoro (2015)",
+        "image": "https://vidcache.net:8161/static/d9c8edfa1deaebb96569f1a56ef863c232bb45cb/Barbie en busca tesoro.jpeg",
+        "url": "https://uqload.ws/i8nsxsjdd2lv.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Barbie y La puerta secreta",
+        "image": "https://vidcache.net:8161/static/9fa09b6400d850436eadc11c573559d7e2281c65/Barbie puerta secreta.jpeg",
+        "url": "https://uqload.ws/ubjv2h6bvekp.html",
+        "info":"",
+        "import": false
+        }, 
+		{
+        "name": "Barbie y Las zapatillas mágicas (2013)",
+        "image": "https://vidcache.net:8161/static/9592b058ee89b8b7cd7b5f69b0c494ac6fa8960d/Barbie zapatilas magicas.jpeg",
+        "url": "https://uqload.ws/l222mdy5iglc.html",
+        "info":"",
+        "import": false
+        }, 
+		{
+        "name": "Barbie y sus hermanas en una aventura de caballos (2013)",
+        "image": "https://vidcache.net:8161/static/e0f60501c340022c4db2e1bdbe6db60c53afdc71/Barbie aventura caballos.jpeg",
+        "url": "https://uqload.ws/a3d6wow0tl5y.html",
+        "info":"",
+        "import": false
+        }, 
+		{
+        "name": "Bolt (2008)",
+        "image": "https://vidcache.net:8161/static/3d7e1c4b191f44597be4ac8599edc4b4d9eccf12/Bolt.jpeg",
+        "url": "https://lbx.to/f/67kbD4k",
+        "info":"",
+        "import": false
+        }, 
+		{
+        "name": "Buscando a Dory (2016)",
+        "image": "https://vidcache.net:8161/static/80d7826174a58f88120f37c14f1a1806a9756a50/Dory.jpeg",
+        "url": "https://supervideo.cc/nwo6rdht8bie",
+        "info":"",
+        "import": false
+        },
+    	{
+        "name": "Campanilla y la leyenda de la bestia (2014)",
+        "image": "https://vidcache.net:8161/static/f71533c3ebbfc50af3125be89a9bb9907e17e64e/campanilla-y-la-leyenda-de-la-bestia.jpg",
+        "url": "https://supervideo.cc/2y34otudyj7d",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Cavernicola (2018)",
+        "image": "https://vidcache.net:8161/static/98e495a1e2268b9b13ad4fdbf0e31ccffc92e163/Cavernicola.jpeg",
+        "url": "https://filemoon.sx/d/794qmdgs5t2s",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Cigueñas -La historia que no te contaron- (2016)",
+        "image": "https://vidcache.net:8161/static/c9af683996c34e5759ea17ca9b2703927a333c19/Cigueñas.jpeg",
+        "url": "https://supervideo.cc/y0k9jvgj0nar",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Coco (2017)",
+        "image": "https://vidcache.net:8161/static/f09cdc317b561629f00752dc23b967dfc1b33606/Coco.jpg",
+        "url": "https://swishsrv.com/58szoacvbl3h",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Como entrenar a tu Dragón (2010)",
+        "image": "https://vidcache.net:8161/static/986ddcd3de6a35f91e5ae8acf557e1ba5293e2a6/Como entrenar a tu dragon.jpg",
+        "url": "https://vidmoly.me/w/cyzfwvyyfqpn",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Como entrenar a tu dragón 2 (2014)",
+        "image": "https://vidcache.net:8161/static/8d1a32d87a6312c584b266e271fd84007dcec5de/Como entrenar a tu dragon 2.jpg",
+        "url": "https://filemoon.sx/d/qfw8m7fewun1/C_mo_entrenar_a_tu_drag_n_2__2014_HDRip_Cast_AC3_2.0_.avi",
+        "info":"",
+		"userAgent":"",
+        "import": false
+        },
+		{
+        "name": "El delfin - La historia de un soñador (2009)",
+        "image": "https://vidcache.net:8161/static/0dcb6476b6ef0e5cd6598aa9ee2adeb85d778357/El delfin.jpeg",
+        "url": "https://supervideo.cc/epsarzmky9qe",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "El fantasma de Canterville",
+        "image": "https://vidcache.net:8161/static/d078fb38fcd048bab09225a9943f51010520434b/El fantasma.jpg",
+        "url": "https://swishsrv.com/1irxzpzaayae",
+        "info":"(2023)",
+        "import": false
+        },
+		{
+        "name": "El rey León (2019)",
+        "image": "https://vidcache.net:8161/static/c5fab1dfb783297c82607b45e5c26dd293296dfa/El rey Leon.jpeg",
+        "url": "https://filemoon.sx/d/9uzzo79bqrgf",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Ferdinand (2017)",
+        "image": "https://vidcache.net:8161/static/fdeaa060d7e4543d7adfbe61d37fd1b3cc2cb00b/Ferdinand.jpeg",
+        "url": "https://filemoon.sx/d/m509vn8yli1h",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Frozen -El reino del hielo- (2013)",
+        "image": "https://vidcache.net:8161/static/919fd523361540b1ea92fe25369e9a22a5da2336/Frozen.jpeg",
+        "url": "https://opvid.org/lhlgfe5ufr9d.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Frozen II (2019)",
+        "image": "https://vidcache.net:8161/static/ecc8863466e7bb5a1b0d8be3e96c33b90e348cd7/Frozenn II.jpeg",
+        "url": "https://filemoon.sx/d/0y90edg8opjz",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "GaHoole, La leyenda de los Guardianes (2010)",
+        "image": "https://vidcache.net:8161/static/7718f4ec770ef4e4128710d0f617671f6a159d82/Gahoole La leyenda.jpg",
+        "url": "https://voe.sx/8ab5qfwoy7fo",
+		"info":"",
+        "import": false
+        },
+		{
+        "name": "Guardiana de Dragones",
+        "image": "https://vidcache.net:8161/static/7d86d429a75bab2ecb00a499e597db660ea37a1e/Guardiana de dragones.jpg",
+        "url": "https://swishsrv.com/0eddaq42soly",
+        "info":"(2024)",
+        "import": false
+        },
+		{
+        "name": "Haikyu!!-La batalla del basurero",
+        "image": "https://vidcache.net:8161/static/a1442a3b22ffb1b330be21048ba04c4d9bc49a7a/Haikyu!! La batalla.jpg",
+        "url": "https://swishsrv.com/2gw30igxfpxe",
+        "info":"(2024)",
+        "import": false
+        },
+		{
+        "name": "Hotel Transilvania 3 (2018)",
+        "image": "https://vidcache.net:8161/static/4aff6d9580fbe68444503650f1680fb425830e3b/Hotel Transilvania 3.jpeg",
+        "url": "https://swishsrv.com/18c0p54c525d",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Justin y La espada del valor (20013)",
+        "image": "https://vidcache.net:8161/static/82ff7e6742e19983c4bb0d8f0c9ab658a4ced052/Justin y la Espada.jpeg",
+        "url": "https://supervideo.cc/2hv67nn1l7a6",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Kubo y Las 2 cuerdas mágicas (2016)",
+        "image": "https://vidcache.net:8161/static/2d978bf8c658b6ebb3af1aa1bb066f185496b637/Kubo.jpeg",
+        "url": "https://opvid.org/q068ot3td1bc.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Kung Fu Panda 4 (2024)",
+        "image": "https://vidcache.net:8161/static/0c14334fe69b3c01bd554c6ce4337e93a60edf52/Kung Fu Panda 4.jpeg",
+        "url": "https://uqload.ws/027y6sqs7yh5.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Look back",
+        "image": "https://vidcache.net:8161/static/d7f2537d78204ecd76f5dcfb18c0fca5ab17200f/Look back.jpg",
+        "url": "https://supervideo.cc/o6yg3jw6dw8e",
+        "info":"Continua dibujando (2024)",
+        "import": false
+        },
+		{
+        "name": "Los Pinguinos de Madagascar (2014)",
+        "image": "https://vidcache.net:8161/static/5373da6f233ec8c42138ef0df0b91ca54cbe1095/Los pinguinos Madagascar.jpeg",
+        "url": "https://opvid.org/e07kmsag480k.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Monster high - Fantasmagoricas (2015)",
+        "image": "https://vidcache.net:8161/static/c1bf23d1b8e2fa663c2ec07e3ba06fa1014f7008/Monster Fantasmagoricas.jpeg",
+        "url": "https://filemoon.sx/d/58sqy03skexc/MonsHigFantas.HDR.RD.avi",
+        "info":"",
+		"userAgent":"",
+        "import": false
+        },
+		{
+        "name": "Monstruos SA (2001)",
+        "image": "https://vidcache.net:8161/static/99af01cc7c0924def36106396867756c96f0d56d/Monstruos SA.jpeg",
+        "url": "https://streamtape.com/v/wlR7B2d24puJ92V/MonstersUniversity1080p.mkv.mp4",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Nimona (2023)",
+        "image": "https://vidcache.net:8161/static/639129b759ff61f34b11dbce044bd66b3804425d/Nimona.jpeg",
+        "url": "https://opvid.org/0udyywags52b.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Pequeño gran lobo (2020)",
+        "image": "https://vidcache.net:8161/static/e0dbdb89e122a637f7e203117ecdf63f278df193/Pequeño lobo.jpeg",
+        "url": "https://vidoza.net/8s5t81u24513.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Pico de oro y sus amigos",
+        "image": "https://vidcache.net:8161/static/e831eca48f0db52f481a1979f311df55aff8b21c/Pico de oro.jpg",
+        "url": "https://swishsrv.com/g3m5qqovs2dw",
+        "info":"(2023)",
+        "import": false
+        },
+		{
+        "name": "Raya y El ultimo dragón",
+        "image": "https://vidcache.net:8161/static/0ea4d6365ad4055b34b80b28f4b3adcb86c29670/Raya ultimo dragon.jpeg",
+        "url": "https://swishsrv.com/804c55oah761",
+        "info":"(2021)",
+        "import": false
+        },
+		{
+        "name": "Rio (2011)",
+        "image": "https://vidcache.net:8161/static/0d032a8f30d2f28c1b18f0b8f7d0601fa93e8737/Rio.jpeg",
+        "url": "https://filemoon.sx/d/dq5oypo99qt9",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Robots (2005)",
+        "image": "https://vidcache.net:8161/static/6c6e0c9337c0d18a995d05d6948dcca7c6777078/Robots.jpeg",
+        "url": "https://hlswish.com/r0n1uuanjr7i",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Spirit, El corcel indomable (2002)",
+        "image": "https://vidcache.net:8161/static/701d6b1f7ad847ca67687bb5f16f00eb442790da/Spirit.webp",
+        "url": "https://supervideo.cc/se7eav76my61",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Tadeo Jones 2, El secreto del Rey Midas (2017)",
+        "image": "https://vidcache.net:8161/static/0a37a5501e5b2eb2c26182bd79eb898bf93db8a3/Tadeo Jones 2.jpeg",
+        "url": "https://filemoon.sx/d/f9k1fae98h6m",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Up -Una aventura de altura- (2009)",
+        "image": "https://vidcache.net:8161/static/d6bf4f924fe839e541d7904443a14798c9254945/Up.jpeg",
+        "url": "https://opvid.org/tmhz3vrmpqnz.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Vaiana (2016)",
+        "image": "https://vidcache.net:8161/static/c656d40e7ed4f3ba8b8f05624d5f971f6e9efb1e/Vaiana.jpg",
+        "url": "https://vidoza.net/nz8v1zyljs4f.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Viaje a las profundidades",
+        "image": "https://vidcache.net:8161/static/2deecd66a9e5f48059d15ce64712256b46761846/Deep see.jpeg",
+        "url": "https://supervideo.cc/y32joomy4is5",
+        "info":"Deep see (2023)",
+        "import": false
+        },
+		{
+        "name": "Wall-E (2008)",
+        "image": "https://vidcache.net:8161/static/50e3e3778b56360b1493fc7362a5845e2886196a/Wall-e.jpeg",
+        "url": "https://filemoon.sx/d/n3w9fy29vur5",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "Wolf Children (2012)",
+        "image": "https://vidcache.net:8161/static/08299dd462b10d7dcd840ac9b3bb82d7e924ce99/Wolf Children.jpeg",
+        "url": "https://filemoon.sx/d/wibfpbwzafkj",
+        "info":"",
+        "userAgent":"navigator",
+        "isHost": "true"
+        },
+		{
+        "name": "WolfWalkers (2020)",
+        "image": "https://vidcache.net:8161/static/9cfb28702fcf431cf577a2b85d1e34d264e0f3f2/WolfWalkers.jpeg",
+        "url": "https://opvid.org/b6najszmc6p2.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Zambezia (2011)",
+        "image": "https://vidcache.net:8161/static/58da9c4cbec43b0d167dce40ab46da2c8fc61eb0/Zambezia.jpeg",
+        "url": "https://swishsrv.com/5zdhxmautr18",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info":"",
+        "import": false
+        },
+   ]
+}
