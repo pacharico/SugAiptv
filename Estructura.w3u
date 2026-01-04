@@ -1,5 +1,5 @@
 {
-"name": "IPETV Estructura",
+"name": "Git Estructura",
 "author": "SugA",
 "url": "",
 "image": "https://vidcache.net:8161/static/06dc20866c01b46ee4d10c9cc384d65feea9f8bd/luigi.jpg",
@@ -17,7 +17,7 @@
 		{
         "name": "         Cine",
         "image": "https://vidcache.net:8161/static/e01c3b07db9016db667e23ba4ef7564405d4d292/Cine.png",
-        "url": "https://vidcache.net:8161/static/a3d34762cac49e0aef59f6bdd0371b314d240730/Cine.w3u",
+        "url": "https://raw.githubusercontent.com/pacharico/SugAiptv/refs/heads/main/Cine.w3u",
         "info":"bY. SugA",
         "import": false
         },
