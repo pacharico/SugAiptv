@@ -1,1 +1,61 @@
+{
+"name": "IPETV Estructura",
+"author": "SugA",
+"url": "",
+"image": "https://vidcache.net:8161/static/06dc20866c01b46ee4d10c9cc384d65feea9f8bd/luigi.jpg",
+"telegram": "",
+"info": "Contenido recopilado en internet",
+"groups":
+	[
+    	{
+        "name": "   Area Privada",
+        "image": "https://vidcache.net:8161/static/74ce233f0b25364d2c1bda8b165d7535e7895758/confidencial.png",
+        "url": "https://pastebin.com/raw/XVKvVPMU",
+        "info":"bY. SugA",
+        "import": false
+        },
+		{
+        "name": "         Cine",
+        "image": "https://vidcache.net:8161/static/e01c3b07db9016db667e23ba4ef7564405d4d292/Cine.png",
+        "url": "https://vidcache.net:8161/static/a3d34762cac49e0aef59f6bdd0371b314d240730/Cine.w3u",
+        "info":"bY. SugA",
+        "import": false
+        },
+		{
+        "name": "         Dibujos",
+        "image": "https://vidcache.net:8161/static/80f62aefc7eca619ec3c3a50447989b36d4df5b4/Mickey Mouse.png",
+        "url": "https://vidcache.net:8161/static/dd7058e5f2319f84856ccf771c092a6ad44fb3f1/Dibujos.w3u",
+        "info":"bY. SugA",
+        "import": false
+        },
+        {
+        "name": "          Series",
+        "image": "https://vidcache.net:8161/static/9acf40502235b79f20d8dbd363a5d3eef997a311/series.png",
+        "url": "https://vidcache.net:8161/static/77c79e3a6383affa9985f058ebdf48f608b2e479/Series.w3u",
+        "info":"bY. SugA",
+        "import": false
+        },
+		{
+        "name": "Series de Dibujos",
+        "image": "https://vidcache.net:8161/static/42be687ec864936e51ed664572f84b1a19f7cb36/Series animacion.png",
+        "url": "https://vidcache.net:8161/static/13f5707a78dda72a2f393dc678b5eaae1036daec/Series de Dibujos.w3u",
+        "info":"bY. SugA",
+        "import": false
+        },
+		{
+        "name": "      Canales TV",
+        "image": "https://vidcache.net:8161/static/75124ffeec598b2dd68f6c1d03189a79bde51c18/youtube-tv-24338.png",
+        "url": "https://vidcache.net:8161/static/eab6b88f9fe56af7ec3430aafe60044c4f83a74d/Canales TV.w3u",
+        "info":"bY. SugA",
+        "import": false
+        },
+		{
+        "name": "      Audiolibros",
+        "image": "https://www.yourupload.com/view/5178359",
+        "url": "https://vidcache.net:8161/static/e9549b523021dd162a095156e8235eb3ba6e66b2/Audiolibros.w3u",
+        "info":"bY. SugA",
+        "import": false
+        },
+	]
+}  
 
