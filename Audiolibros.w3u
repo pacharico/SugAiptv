@@ -12,20 +12,20 @@
         "image": "https://vidcache.net:8161/static/1f0aae8d0ef3788091d2456322402184b8cec1e8/La isla maldita.jpeg",
         "url": "https://vidcache.net:8161/static/d8c857c7c25a9257f6d3146e6e2aa14ae8e165bf/Adrian McKinty · La isla maldita.m4a",
         "info":"Adrian McKinty",
-        "import": false
+        "import": "false"
         },
 		{
         "name": "Mundo extraño",
         "image": "https://vidcache.net:8161/static/66d9b0e1f995bf20a1074ee6dd06b01fa83e11d5/Mundo extraño.jpeg",
         "url": "https://vidcache.net:8161/static/9ae7706118c400608663b9e68600d27d82e90b97/Mundo Extraño - Disney.mp3",
         "info":"Disney",
-        "import": false
+        "import": "false"
         },
 		{
         "name": "Proximamente",
         "image" : "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,f=auto/3ef233cfb9ca304e6614a2a2705cc7aa.png",
 		"url": "https://asalfer.upn.one/#rr8ay",
-	    "embed": true,
+	    "embed": "true"
         },
    ]
-}  
+}
