@@ -1,1 +1,342 @@
-
+{
+"name": "Cine",
+"author": "SugA",
+"url": "https://pastebin.com/raw/D7H7REmb",
+"image": "",
+"telegram": "",
+"info": "",
+"stations":
+	[
+		{
+        "name": "8 Apellidos catalanes",
+        "image": "https://vidcache.net:8161/static/c9236493ca62fc0517660c8dfcb222692ea88ffd/8 Apellidos cat.jpeg",
+        "url": "https://vidmoly.to/w/97npczop0fif",
+        "info":"(2015)",
+        "import": false
+        },
+		{
+        "name": "Al filo del mañana",
+        "image": "https://vidcache.net:8161/static/4bc980cdad2fe09ca4f7c81b0ee53d84ff1e0eda/Al filo del mañana.jpeg",
+        "url": "https://www.yourupload.com/watch/UVxEHIoIQS7e",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Amigos imaginarios (2024)",
+        "image": "https://vidcache.net:8161/static/6b1cde7af2371a2f8f75b0091b0b60b0f1e559b3/Amigos imaginarios.jpeg",
+        "url": "https://opvid.org/z5pho55c4g83.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Avatar - V. Extendida",
+        "image": "https://vidcache.net:8161/static/fac1100389a968cd607f06e8823744e1625b4345/Avatar.jpeg",
+        "url": "https://hlswish.com/y357reqvxqxl",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Avatar, El sentido del agua (2022)",
+        "image": "https://vidcache.net:8161/static/c3dbc073121230ea4361bf26fe765549c900311e/Avatar 2.jpeg",
+        "url": "https://opvid.org/bkmpdmezuv92.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Coda, Los sonidos del silencio",
+        "image": "https://vidcache.net:8161/static/0136bd18ab5531b2f76fb520bd9406b629fea794/coda2.jpeg",
+        "url": "https://filemoon.sx/d/ehglf4b3pnp1",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+    	{
+        "name": "           Dune",
+        "image": "https://vidcache.net:8161/static/a040a2be071e1aea685f75e3728d00f34705e37c/Dune.png",
+        "url": "https://filemoon.sx/d/km9jeyqcg30x",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "          Dune 2",
+        "image": "https://vidcache.net:8161/static/42ec8a66919046ea1b2bcbf3ad176345dfc1c2f8/Dune_Part_Two_poster.jpeg",
+        "url": "https://hlswish.com/40pe7198srsk",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Dunkerque (2017)",
+        "image": "https://vidcache.net:8161/static/58f3e5d6ae8a511b97b6123e9567cced15d5a712/Dunkerque.jpeg",
+        "url": "https://lbx.to/f/mIR9F5F",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "El Hobbit - Un viaje inesperado",
+        "image": "https://vidcache.net:8161/static/09e295f7196c8d20d1ef3b4f0fe4504165f91e44/el hobbit-Un viaje inesperado.jpg",
+        "url": "https://hlswish.com/x6bx56aso5fc",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "El Hobbit - La desolación de Smaug",
+        "image": "https://vidcache.net:8161/static/c50da29b760bc1e93e70fb6b42e2edf7ec3290e0/Hobbit-2.jpeg",
+        "url": "https://hlswish.com/hhrhq4b708ib",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "El Hobbit - La batalla de los 5 ejércitos",
+        "image": "https://vidcache.net:8161/static/5b78123e2a1e91f84072f215e8c7316f9884c7bb/El Hobbit 3.jpeg",
+        "url": "https://filemoon.sx/d/ff3umymt113x",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "El reino animal",
+        "image": "https://vidcache.net:8161/static/2855850cc9fba7258660e567e0ca898a91d127c8/Reino animal.jpeg",
+        "url": "https://opvid.org/mr5eejjes3oy.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "El Señor de los anillos (2001)",
+        "image": "https://vidcache.net:8161/static/f3a056a858b613934f19247e4c5cf1741fee5720/Señor anillos.jpeg",
+        "url": "https://bembed.net/v/KrdZ5kd7o6bxmX4",
+        "info":"La Comunidad del anillo",
+		"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+		{
+        "name": "          Eragon",
+        "image": "https://vidcache.net:8161/static/140abd160035b3393b3d49fecf871d234da1cab9/Eragon.jpeg",
+        "url": "https://opvid.org/spru90u3ccg0.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "ET el Extraterrestre",
+        "image": "https://vidcache.net:8161/static/c06cb0e883e2684ef1675cea90c8153f9bcfc7d0/ET.jpeg",
+        "url": "https://opvid.org/nh6q7nea2j1j.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "          Flicka",
+        "image": "https://vidcache.net:8161/static/4d37b54be2b6323e4d01724ebcbf42a2644cb067/Flicka.jpeg",
+        "url": "https://highstream.tv/7bhp458wq00w/Flicka.avi.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "          Flicka 2",
+        "image": "https://vidcache.net:8161/static/4c7df9334b23f77a47d55724ca89f0bd463e6314/Flicka 2.jpeg",
+        "url": "https://filemoon.sx/d/z8batm6oeob0",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "          Flicka 3",
+        "image": "https://vidcache.net:8161/static/b2974aa3972333d74221cee6738eb71027e6188d/Flicka 3.jpeg",
+        "url": "https://www.yourupload.com/watch/if8PPtbLUg81",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Harry Potter y La piedra filosofal",
+        "image": "https://vidcache.net:8161/static/8bb46181baa255e029292a6abbc42e7d65ff7e27/Harry piedra filosofal.jpeg",
+        "url": "https://opvid.org/gl9x3zmgj70o.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Harry Potter y La càmara secreta",
+        "image": "https://vidcache.net:8161/static/557cb2bdb8b78b6cc469fb048b66e09a1cf344a0/Harry camara.jpeg",
+        "url": "https://opvid.org/gbfflw12qcpa.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Harry Potter y El prisionero de Azkaban",
+        "image": "https://vidcache.net:8161/static/75d5d9b8b95b2e408e5ffb825adfa7240303c166/Harry prisionero.jpeg",
+        "url": "https://opvid.org/qizgfw0pkjlb.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Harry Potter y el Caliz de fuego",
+        "image": "https://vidcache.net:8161/static/a757b62d5cae1f5db79355c5bf3fe518c9ee6df3/El Caliz de fuego.jpeg",
+        "url": "https://opvid.org/z3p0rcw5rylg.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Harry Potter y la Orden del Fenix",
+        "image": "https://vidcache.net:8161/static/cde7838c7747cd6b4df03ec4d561286dcd4d3692/Orden del Fenix.jpeg",
+        "url": "https://opvid.org/j6kd1ox1d0lb.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Inexpertos (2024)",
+        "image": "https://vidcache.net:8161/static/529a68505e6fc614da6da1bf7a92277ca66e72e3/Inexpertos.jpeg",
+        "url": "https://filemoon.sx/d/wafncqj0cygw",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Infierno azul",
+        "image": "https://vidcache.net:8161/static/bcb2f10841adc106875fe447d61b97d3c4163cca/Infierno azul.jpeg",
+        "url": "https://lbx.to/f/r689pLL",
+        "info":"(2016)",
+        "import": false
+        },
+		{
+        "name": "La directora de orquesta",
+        "image": "https://vidcache.net:8161/static/b9be6a6c15c481bc72bcaf81db7060d4400617c9/La directora.jpeg",
+        "url": "https://filemoon.sx/d/rfeoymvsql8u",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"2018",
+        "import": false
+        },
+		{
+        "name": "La niñera mágica",
+        "image": "https://vidcache.net:8161/static/071682ec13b678f9edfc2d6a06a71794cb84fff5/La niñera magica.jpeg",
+        "url": "https://bembed.net/v/m7WJxgJybez5Bze",
+        "info":"(2005)",
+		"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+		{
+        "name": "Malefica (2014)",
+        "image": "https://vidcache.net:8161/static/fb991b7a57d5188c4e1580004c313ded48bac4a4/Malefica.jpeg",
+        "url": "https://lbx.to/f/8w4ygTp",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Mary Poppins (1964)",
+        "image": "https://vidcache.net:8161/static/4360dd93cc223daeb2d6657ce2bd65c1802bcac9/Mary Poppins.jpeg",
+        "url": "https://filemoon.sx/d/2ro3ay533a55",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Mujercitas (2019)",
+        "image": "https://vidcache.net:8161/static/103bd177591f44dfc65fea9f72688a20fc387fdc/Mujercitas.jpeg",
+        "url": "https://listeamed.net/v/VqbX53gyp7G5Qzp",
+        "info":"",
+		"isHost": "true",
+       	"import": false
+        },
+		{
+        "name": " Natura Bizia",
+        "image": "https://vidcache.net:8161/static/e95539551d2abdb2d79c693660ef24f002ff6437/Natura vizia.jpeg",
+        "url": "https://highstream.tv/tisve86k17wv/Natura.Bizia.2021.1080p.BluRay.mkv.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "No dejes Rastro",
+        "image": "https://vidcache.net:8161/static/70205e098a3b527d50604b9e5f9ead1e2373dea8/No dejes rastro.jpeg",
+        "url": "https://highstream.tv/w297ea1kkjtj/NoD3j3sR4stro.m1080p.Castellano.mkv.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "    Peter Dragón",
+        "image": "https://vidcache.net:8161/static/79437b596c8d1185ceb86d419c9c6fbf278a1255/Peter Dragon.jpeg",
+        "url": "https://highstream.tv/h61a3gd23idv/P3terDr4gonHDR.avi.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": " Super agente canino",
+        "image": "https://vidcache.net:8161/static/4b541e5a16dd2f935c241b9a930fef5c8e596ed5/Superagente canino.jpeg",
+        "url": "https://filemoon.sx/d/fuy4ge7aa7l4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "           Togo",
+        "image": "https://vidcache.net:8161/static/2209f4d8a3cf05808729c409a5a3f568b130ea2a/Togo.jpeg",
+        "url": "https://hlswish.com/17amet7yokwo",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "      Una aventura extraordinaria",
+        "image": "https://vidcache.net:8161/static/de8217f734af5f83ed465e2cf3c75dbe73e587ab/Aventura extraordinaria.jpeg",
+        "url": "https://highstream.tv/t7e62h9mwsad/Una_Aventura_Extraordinaria_[DVDRIP][Spanish_AC3_5.1][2012].avi.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Un millon de minutos",
+        "image": "https://vidcache.net:8161/static/c90ff426831e728c74c1a8f8af0fbd2f5fccfaef/Un millon minutos.jpeg",
+        "url": "https://listeamed.net/v/wP2050eJZqYxdmy",
+        "info":"(2024)",
+		"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+		{
+        "name": "      Un papa genial",
+        "image": "https://vidcache.net:8161/static/13a05ef47c96ddbb08704b07d7f7fb95c29baa22/Un papa genial.jpeg",
+        "url": "https://highstream.tv/85wyhmdwrftv/Un_papa_genial.avi.html",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "          Vice",
+        "image": "https://vidcache.net:8161/static/8b1704f949a0b858e849dd1c570db7f197f23ebb/Vice.jpeg",
+        "url": "https://filemoon.sx/d/5mnhu1nw0dp9",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "info":"",
+        "import": false
+        },
+		{
+        "name": "Warcraft: El Origen",
+        "image": "https://vidcache.net:8161/static/2e7a380640c70077edb2ec922ccf8a3540a3d555/Warcraft.jpeg",
+        "url": "https://bembed.net/v/4bQVOj76eJm5wKm",
+        "info":"(2016)",
+		"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+		{
+        "name": "          Wonka",
+        "image": "https://vidcache.net:8161/static/7d66e2191a17d4d1e4fb03616e749af37715596e/wonka.jpeg",
+        "url": "https://highstream.tv/bydvogp9ifxy/Wonka_(2023)_[Bluray_720p][Esp](wolfmax4k.com).mkv.html",
+        "info":"",
+        "import": false
+        },
+ 
+		{
+        "name": "Canal en directo",
+        "image": "https://vidcache.net:8161/static/e2416b7eafab0c7788a4b911143a904741f80dcb/tv directo.jpg",
+        "url": "https://glb.bozztv.com/glb/ssh101/miamanecer/index.m3u8",
+        "info":"Canal Amanecer",
+        "import": false
+        },
+   ]
+}
