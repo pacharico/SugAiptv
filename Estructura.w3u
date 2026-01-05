@@ -51,7 +51,7 @@
         },
 		{
         "name": "      Audiolibros",
-        "image": "https://vidcache.net:8161/static/2d93deb1b3e6b25dd4087a284b93da0901e7afd1/Audiolibros_860.png",
+        "image": "https://vidcache.net:8161/static/e8bbbfe2cf7ee8925f40a28d4fed6b7f1528f07e/audio book.png",
         "url": "https://raw.githubusercontent.com/pacharico/SugAiptv/refs/heads/main/Audiolibros.w3u",
         "info":"bY. SugA",
         "import": false
