@@ -1,1 +1,24 @@
-
+{
+"name": "Oneta",
+"author": "SugA",
+"url": "",
+"image": "",
+"telegram": "",
+"info": "",
+"stations":
+	[
+    	{
+        "name": "Video 1",
+        "image": "",
+        "url": "https://asalfer.upn.one/#q5dq1o",
+        "embed":"true"
+        },
+		{
+        "name": "Video 2",
+        "image": "",
+        "url": "https://asalfer.upn.one/#d89dwg",
+        "embed":"true"
+        },
+		
+   ]
+}
