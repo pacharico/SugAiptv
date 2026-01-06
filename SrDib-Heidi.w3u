@@ -1,1 +1,372 @@
-
+{
+"name": "     Heidi",
+"image": "https://vidcache.net:8161/static/ddb69b018dd5ae2b6b3a3d6f2121c95af21b75dc/Heidi.jpeg",
+"url": "",
+"info":"",
+    "stations":
+	[
+		{
+		"name": "     Cap. 1",
+		"image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/thrkh6683nbp/heidi-1x01-hacia-la-montaña-hdrip",
+		"info": "Hacia la montaña",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 2",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/73z7qhgmk0y6/heidi-1x02-en-casa-del-abuelo-hdrip",
+		"info": "En casa del abuelo",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 3",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/62lihp08m1sp/heidi-1x03-hacia-los-pastos-hdrip",
+		"info": "Hacia los pastos",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 4",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/nzm734f64hrz/heidi-1x04-uno-más-en-la-familia-hdrip",
+		"info": "Uno más en la familia",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 5",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/1t2ay9lrhh92/heidi-1x05-la-carta-quemada-hdrip",
+		"info": "La carta quemada",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 6",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/rmrqu6kps4xz/heidi-1x06-silba-mas-fuerte-hdrip",
+		"info": "Silbad más fuerte",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 7",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/w1xbexo6ft4a/heidi-1x07-el-susurro-de-los-abetos-hdrip",
+		"info": "El susurro de los abetos",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 8",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/ciedoz4gca4z/heidi-1x08-a-dónde-ha-ido-pichi-hdrip",
+		"info": "¿A dónde ha ido Pitchí?",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 9",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/boqkdb18zwg7/heidi-1x09-los-alpes-nevados-hdrip",
+		"info": "Los Alpes nevados",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 10",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/ufad7maj05ig/heidi-1x10-una-visita-a-casa-de-la-abuelita-hdrip",
+		"info": "Una visita en casa de la abuela",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 11",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/mokfeygy6hc7/heidi-1x11-tempestad-de-nieve-hdrip",
+		"info": "Tempestad de nieve",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 12",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/slp917l7wxhv/heidi-1x12-el-sonido-de-la-primavera-hdrip",
+		"info": "Sonidos de primavera",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 13",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/z1b2c86u4c2y/heidi-1x13-regreso-a-los-prados-hdrip",
+		"info": "Regreso a los prados",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 14",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/aztm93exd65z/heidi-1x14-una-noticia-triste-hdrip",
+		"info": "Una noticia triste",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 15",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/p3hq3uodg30n/heidi-1x15-copo-de-nieve-hdrip",
+		"info": "Copo de Nieve",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 16",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/wkf2tbkllto5/heidi-1x16-el-pueblo-de-dorfli-hdrip",
+		"info": "Dorfli",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 17",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/exdhwzuw16v4/heidi-1x17-visitas-inesperadas-hdrip",
+		"info": "Visitas inesperadas",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 18",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/zodb4s9v1l5h/heidi-1x18-la-partida-hdrip",
+		"info": "La partida",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 19",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/xrvnteus1j7a/heidi-1x19-camino-de-frankfurt-hdrip",
+		"info": "Camino de Fráncfurt",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 20",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/cav3pn5pfkro/heidi-1x20-una-nueva-vida-hdrip",
+		"info": "Una nueva vida",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 21",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/38almc1o1hjo/heidi-1x21-quiero-volar-hdrip",
+		"info": "Quiero volar",
+		"userAgent": "navigator"
+		},{
+		"name": "     Cap. 22",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/gox59f3s2l60/heidi-1x22-donde-estan-las-montañas-hdrip",
+		"info": "¿Dónde están las montañas?",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 23",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/9g77cvae1kwp/heidi-1x23-un-gran-alboroto-hdrip",
+		"info": "Un gran alboroto",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 24",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/8x28d3wbnss1/heidi-1x24-el-gato-abandonado-hdrip",
+		"info": "El gato abandonado",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 25",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/es52p0i97t84/heidi-1x25-los-panecillos-blancos-hdrip",
+		"info": "Los panecillos blancos",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 26",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/nr03umzsvlaj/heidi-1x26-el-regreso-del-señor-sesseman-hdrip",
+		"info": "El regreso del señor Sesseman",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 27",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/t4azbz116xuq/heidi-1x27-la-abuelita-de-clara-hdrip",
+		"info": "La abuelita de Clara",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 28",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/cnrrnut0gfyr/heidi-1x28-la-excursión-al-bosque-hdrip",
+		"info": "Una excursión al bosque",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 29",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/u7agnkwshdwi/heidi-1x29-dos-corazones-hdrip",
+		"info": "Dos corazones",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 30",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/r7m718276hzw/heidi-1x30-quiero-coger-el-sol-hdrip",
+		"info": "Quiero coger el sol",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 31",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/ums4caaovgcy/heidi-1x31-adios-abuelita-hdrip",
+		"info": "Adiós, abuelita",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 32",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/bi1ypkelhawh/heidi-1x32-una-noche-agitada-hdrip",
+		"info": "Una noche agitada",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 33",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/622nydzsfcad/heidi-1x33-fantasmas-hdrip",
+		"info": "Fantasmas",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 34",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/uxsvci39kgjo/heidi-1x34-el-regreso-hdrip",
+		"info": "El regreso",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 35",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/u0woeoybgiql/heidi-1x35-el-cielo-de-los-alpes-hdrip",
+		"info": "El cielo de las montañas",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 36",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/dfd1hyop8f0h/heidi-1x36-regreso-a-los-alpes-hdrip",
+		"info": "Retorno a las praderas",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 37",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/39nmxa2fy4ml/heidi-1x37-el-cabritillo-hdrip",
+		"info": "El cabritillo",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 38",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/iyw2lorxcqp1/heidi-1x38-la-nueva-casa-hdrip",
+		"info": "La nueva casa",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 39",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/lfega60vaacq/heidi-1x39-carrera-de-trineos-hdrip",
+		"info": "Carreras en trineo",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 40",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/ayrcw3y19n0t/heidi-1x40-quiero-ir-a-los-alpes-hdrip",
+		"info": "Quiero ir a los Alpes",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 41",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/4q30346b3lws/heidi-1x41-la-promesa-del-doctor-hdrip",
+		"info": "La promesa del doctor",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 42",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/c1b68zkf2yqi/heidi-1x42-que-alegria-volverte-a-ver-hdrip",
+		"info": "Qué alegría volver a verte",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 43",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/p26o8bnx6iq3/heidi-1x43-el-deseo-de-clara-hdrip",
+		"info": "El deseo de Clara",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 44",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/st12m58gi7ub/heidi-1x44-el-proyecto-de-pedro-hdrip",
+		"info": "El proyecto de Pedro",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 45",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/tp7sleb61hgj/heidi-1x45-vamos-a-ver-las-flores-hdrip",
+		"info": "Vamos a ver las flores",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 46",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/ykhgplqcuzqo/heidi-1x46-el-descubrimiento-hdrip",
+		"info": "El descubrimiento de Clara",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 47",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/f57ldfu7ss2p/heidi-1x47-hola-abuelita-hdrip",
+		"info": "Hola, abuelita",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 48",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/icokosrhwros/heidi-1x48-una-ligera-esperanza-hdrip",
+		"info": "Una pequeña esperanza",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 49",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/i3fgnqlbc1za/heidi-1x49-te-lo-prometo-abuelita-hdrip",
+		"info": "Te lo prometo, abuelita",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 50",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/djrw17e9lqds/heidi-1x50-clara-se-tiene-de-pie-hdrip",
+		"info": "Clara se tiene en pie",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 51",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/hq8qubvoyjq7/heidi-1x51-clara-ya-puede-andar-hdrip",
+		"info": "Clara ya puede andar",
+		"userAgent": "navigator"
+		},
+		{
+		"name": "     Cap. 52",
+        "image": "https://vidcache.net:8161/static/9ec6b0fbf669466789b2c52301c36e04b7e1288d/Heidi.png",
+        "url": "https://bysefujedu.com/d/8r62g3ksmmb8/heidi-1x52-hasta-pronto-hdrip",
+		"info": "Hasta pronto",
+		"userAgent": "navigator"
+		},
+	]
+},
